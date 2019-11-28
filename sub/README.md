@@ -1,4 +1,4 @@
 # Sub
 Testing relative paths:
-![rootimage](xpra.png)
+![rootimage](/xpra.png)
 ![subimage](subxpra.png)
